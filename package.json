@@ -1,0 +1,24 @@
+{
+  "name": "getbestprice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codejets/getbestprice.git"
+  },
+  "keywords": [
+    "get",
+    "best",
+    "price"
+  ],
+  "author": "Mukesh KR/Codejets <codejets@gmail.com> (http://codejets.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codejets/getbestprice/issues"
+  },
+  "homepage": "https://github.com/codejets/getbestprice"
+}
